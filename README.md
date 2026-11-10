@@ -32,20 +32,23 @@ I'm a software developer focused on building practical digital products, full-st
 
 ## 💼 Professional Experience
 
-### System Administrator — Amoud University
+### System Administrator | Amoud University
 
-Supporting the university's IT infrastructure and day-to-day technology services to help staff, students, and departments work reliably and securely.
+I work in university IT operations, helping maintain the systems, networks, and technology services that support the university's daily activities.
 
-**Key responsibilities**
-- 🖥️ Administer and maintain computer systems, servers, and essential IT services.
-- 🌐 Monitor and troubleshoot network connectivity and infrastructure issues.
-- 👤 Manage user accounts, access permissions, and system availability.
-- 🔐 Apply security practices, updates, and access controls to protect systems.
-- 💾 Support data backup, recovery readiness, and routine maintenance.
-- 🛠️ Diagnose hardware and software problems and provide technical support.
-- 📋 Monitor system performance, document issues, and coordinate IT operations.
+**What a System Administrator does**
+- 🖥️ **Systems & servers:** Install, configure, maintain, and monitor computers, servers, operating systems, and core IT services.
+- 🌐 **Network operations:** Check network connectivity, troubleshoot LAN/Wi-Fi issues, and help keep university services connected.
+- 👥 **User & access management:** Create and manage user accounts, permissions, passwords, and access to institutional systems.
+- 🔐 **Security:** Apply updates, security settings, access controls, and safe system practices to reduce risks.
+- 💾 **Backup & recovery:** Support regular backups and help prepare systems for data recovery when needed.
+- 🛠️ **Technical support:** Diagnose hardware, software, printer, and connectivity problems and help staff resolve them.
+- 📊 **Monitoring & maintenance:** Check system health, performance, storage, and service availability; perform routine maintenance.
+- 📝 **Documentation:** Record incidents, configurations, fixes, and recurring issues to improve IT operations.
 
-<sub>Role summary: University IT operations · Systems administration · Network support · Security · Troubleshooting</sub>
+**Core areas:** IT Infrastructure · Windows/Linux Administration · Networking · User Support · System Security · Backup & Recovery
+
+<sub>Professional role: University IT Operations & Systems Administration</sub>
 
 ---
 
