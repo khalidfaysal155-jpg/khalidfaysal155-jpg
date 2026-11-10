@@ -27,6 +27,26 @@ I'm a software developer focused on building practical digital products, full-st
 - 🌱 Continuously learning PHP, Laravel, JavaScript, React, Next.js, Rust, and DevOps.
 - 📍 Somaliland
 
+
+---
+
+## 💼 Professional Experience
+
+### System Administrator — Amoud University
+
+Supporting the university's IT infrastructure and day-to-day technology services to help staff, students, and departments work reliably and securely.
+
+**Key responsibilities**
+- 🖥️ Administer and maintain computer systems, servers, and essential IT services.
+- 🌐 Monitor and troubleshoot network connectivity and infrastructure issues.
+- 👤 Manage user accounts, access permissions, and system availability.
+- 🔐 Apply security practices, updates, and access controls to protect systems.
+- 💾 Support data backup, recovery readiness, and routine maintenance.
+- 🛠️ Diagnose hardware and software problems and provide technical support.
+- 📋 Monitor system performance, document issues, and coordinate IT operations.
+
+<sub>Role summary: University IT operations · Systems administration · Network support · Security · Troubleshooting</sub>
+
 ---
 
 ## 🚀 Featured Work
